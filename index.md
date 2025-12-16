@@ -1,8 +1,3 @@
----
-title: "Shivi Malhotra: Data Analytics Portfolio"
-layout: default
----
-
 # Hi, I'm **Shivi Malhotra** 🌟  
 ### Turning Data into Decisions  
 👩‍💻 Data Analytics Engineer | BI Engineer | HR Analyst | Data Engineer
