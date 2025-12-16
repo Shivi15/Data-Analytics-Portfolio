@@ -1,1 +1,60 @@
+## Portfolio projects
+
+### 1. HR Onsite Workforce & Leadership Analytics
+
+**Goal:** Provide leadership with timely, accurate visibility into onsite workforce percentages, leadership engagement, and employee distribution across regions to support real estate and HR decisions. [file:21]  
+
+- Consolidates workforce analytics across multiple countries into centralized Tableau / Visier dashboards.  
+- Highlights onsite vs remote percentages, leadership engagement trends, and regional headcount distribution.  
+- Includes scenario views for office utilization and space planning.  
+
+[View project →](./projects/hr-onsite-workforce-analytics/README.md)
+
+---
+
+### 2. HR Attrition, Retention & Forecasting
+
+**Goal:** Improve retention decisions by detecting data quality issues, automating refreshes, and forecasting attrition risk and onsite participation. [file:21]  
+
+- Automated data validation checks to reduce reporting errors and improve trust in executive dashboards.  
+- Daily refresh of attrition data to cut response time from weeks to under 48 hours. [file:21]  
+- Predictive attrition analytics using relocation and workforce data to support proactive retention strategies. [file:21]  
+
+[View project →](./projects/hr-attrition-forecasting/README.md)
+
+---
+
+### 3. Real Estate & Finance BI for Portfolio Management
+
+**Goal:** Support finance teams with interactive reporting on real estate portfolios, CapEx, budgeting, and scenario analysis. [file:21]  
+
+- Sample from 120+ Tableau and Power BI dashboards built for portfolio management and forecasting. [file:21]  
+- Focuses on utilization, CapEx tracking, and budget vs actual with drill-downs by property and time.  
+- Demonstrates KPI design, stakeholder-focused views, and performance optimization in BI tools.  
+
+[View project →](./projects/real-estate-bi-finance/README.md)
+
+---
+
+### 4. Freelancing Marketplace Analytics (Upwork-style)
+
+**Goal:** Identify market trends and in-demand skills using data from millions of freelancers to guide strategic planning. [file:21]  
+
+- Recreates an R/Python-based analytics project using large-scale marketplace data. [file:21]  
+- Analyzes category growth, skill demand, and pricing trends with visual summaries.  
+- Includes recommendations for product, marketing, or talent teams on where to invest.  
+
+[View project →](./projects/freelancing-marketplace-analytics/README.md)
+
+---
+
+### 5. Travel Operations Data Warehouse & Analytics
+
+**Goal:** Design a Snowflake-based data warehouse and analytics layer for a travel/experiences company to replace manual reporting. [file:21]  
+
+- Models bookings, trips, customers, and revenue to support operations and growth decisions. [file:21]  
+- Documents architecture, ingestion, and transformations, plus sample dashboards.  
+- Demonstrates data engineering, governance, and self-serve BI enablement.  
+
+[View project →](./projects/travel-operations-data-warehouse/README.md)
 
