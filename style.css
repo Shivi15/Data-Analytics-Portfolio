@@ -3,9 +3,11 @@ body, html {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Roboto', sans-serif; /* Modern Font */
+    color: #f3f3f3; /* Light gray for contrast */
 }
 
+/* Video Background Styling */
 .video-bg {
     position: fixed;
     top: 0;
@@ -22,48 +24,56 @@ body, html {
     object-fit: cover;
 }
 
+/* Content Styling */
 .content {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     text-align: center;
-    color: white;
+    color: #f3f3f3; /* Light gray */
     position: relative;
     z-index: 1; /* Place it on top of the video */
     height: 100vh;
+    padding: 20px;
 }
 
 .content h1 {
     font-size: 4rem;
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7); /* Shadow for readability */
+    letter-spacing: 2px;
 }
 
 .content h2 {
-    font-size: 2rem;
+    font-size: 2.5rem;
     margin-bottom: 1.5rem;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
 }
 
 .content p {
     font-size: 1.25rem;
     margin-bottom: 2rem;
     max-width: 800px;
-    line-height: 1.6;
+    line-height: 1.8;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
 }
 
+/* Button Styling */
 .btn {
     text-decoration: none;
     padding: 0.75rem 1.5rem;
     font-size: 1rem;
-    border: 2px solid white;
-    color: white;
+    border: 2px solid #f3f3f3;
+    color: #f3f3f3;
     background-color: transparent;
     margin: 0.5rem;
     border-radius: 25px;
-    transition: 0.3s;
+    transition: all 0.3s;
 }
 
 .btn:hover {
-    background-color: white;
-    color: black;
+    background-color: #f3f3f3;
+    color: #333; /* Dark color for hover effect */
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.6);
 }
